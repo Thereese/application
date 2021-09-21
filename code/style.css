@@ -1,0 +1,51 @@
+
+
+.headblock {
+background-color: #bf7457;
+padding: 50px;
+height: 200px;
+}
+
+h2 {
+  color: black;
+  font-size: 42px;
+}
+
+h1 {
+  font-size: 100px;
+  color: #28111b;
+}
+
+p {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+.middle {
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+}
+
+.text {
+  background-color: #fba577;
+  width: 75%;
+  padding: 50px;
+}
+
+.links { 
+  width: 25%;
+  background-color: #fba577;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer {
+  background-color: #fba577;
+  height: 40px;
+}
